@@ -1,219 +1,92 @@
 {
-  "modelo": "yolov8n.pt",
+  "modelo": "models/yolov8n.pt",
   "tracker": "bytetrack.yaml",
   "line_mode": "vertical",
+  "resolucion": "640x480",
   "frames": [
     {
       "frame": 5,
-      "timestamp": "2026-05-12 10:15:51.856",
+      "timestamp": "2026-06-05 21:26:57.898",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.778,
-          "bbox": {
-            "x1": 465,
-            "y1": 144,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 552,
-            "cy": 311
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 10,
-      "timestamp": "2026-05-12 10:15:52.273",
+      "timestamp": "2026-06-05 21:26:58.475",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.811,
-          "bbox": {
-            "x1": 465,
-            "y1": 146,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 552,
-            "cy": 312
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 15,
-      "timestamp": "2026-05-12 10:15:52.684",
+      "timestamp": "2026-06-05 21:26:59.021",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.83,
-          "bbox": {
-            "x1": 463,
-            "y1": 143,
-            "x2": 639,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 551,
-            "cy": 311
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 20,
-      "timestamp": "2026-05-12 10:15:53.087",
+      "timestamp": "2026-06-05 21:26:59.536",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.85,
-          "bbox": {
-            "x1": 467,
-            "y1": 143,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 553,
-            "cy": 311
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 25,
-      "timestamp": "2026-05-12 10:15:53.495",
+      "timestamp": "2026-06-05 21:27:00.034",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.868,
-          "bbox": {
-            "x1": 452,
-            "y1": 140,
-            "x2": 633,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 542,
-            "cy": 309
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 30,
-      "timestamp": "2026-05-12 10:15:53.902",
+      "timestamp": "2026-06-05 21:27:00.517",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.889,
-          "bbox": {
-            "x1": 422,
-            "y1": 137,
-            "x2": 620,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 521,
-            "cy": 308
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 35,
-      "timestamp": "2026-05-12 10:15:54.330",
+      "timestamp": "2026-06-05 21:27:01.033",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.908,
-          "bbox": {
-            "x1": 375,
-            "y1": 130,
-            "x2": 607,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 491,
-            "cy": 304
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 40,
-      "timestamp": "2026-05-12 10:15:54.732",
+      "timestamp": "2026-06-05 21:27:01.503",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
       "salidas": 0,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.888,
-          "bbox": {
-            "x1": 311,
-            "y1": 125,
-            "x2": 590,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 450,
-            "cy": 302
-          }
-        }
-      ]
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 45,
-      "timestamp": "2026-05-12 10:15:55.136",
+      "timestamp": "2026-06-05 21:27:02.025",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
@@ -221,25 +94,25 @@
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.933,
+          "confianza": 0.637,
           "bbox": {
-            "x1": 232,
-            "y1": 122,
-            "x2": 576,
-            "y2": 479
+            "x1": 348,
+            "y1": 276,
+            "x2": 370,
+            "y2": 336
           },
           "centro": {
-            "cx": 404,
-            "cy": 300
+            "cx": 359,
+            "cy": 306
           }
         }
       ]
     },
     {
       "frame": 50,
-      "timestamp": "2026-05-12 10:15:55.542",
+      "timestamp": "2026-06-05 21:27:02.541",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
@@ -247,43 +120,43 @@
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.904,
+          "confianza": 0.694,
           "bbox": {
-            "x1": 132,
-            "y1": 126,
-            "x2": 521,
-            "y2": 479
+            "x1": 367,
+            "y1": 267,
+            "x2": 391,
+            "y2": 333
           },
           "centro": {
-            "cx": 326,
-            "cy": 302
+            "cx": 379,
+            "cy": 300
           }
         }
       ]
     },
     {
       "frame": 55,
-      "timestamp": "2026-05-12 10:15:55.960",
+      "timestamp": "2026-06-05 21:27:03.057",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.898,
+          "confianza": 0.702,
           "bbox": {
-            "x1": 72,
-            "y1": 126,
-            "x2": 492,
-            "y2": 479
+            "x1": 391,
+            "y1": 265,
+            "x2": 416,
+            "y2": 340
           },
           "centro": {
-            "cx": 282,
+            "cx": 403,
             "cy": 302
           }
         }
@@ -291,1682 +164,1484 @@
     },
     {
       "frame": 60,
-      "timestamp": "2026-05-12 10:15:56.323",
+      "timestamp": "2026-06-05 21:27:03.590",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.877,
+          "confianza": 0.75,
           "bbox": {
-            "x1": 35,
-            "y1": 131,
-            "x2": 472,
-            "y2": 479
+            "x1": 422,
+            "y1": 262,
+            "x2": 449,
+            "y2": 351
           },
           "centro": {
-            "cx": 253,
-            "cy": 305
+            "cx": 435,
+            "cy": 306
           }
         }
       ]
     },
     {
       "frame": 65,
-      "timestamp": "2026-05-12 10:15:56.674",
+      "timestamp": "2026-06-05 21:27:04.096",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.845,
+          "confianza": 0.828,
           "bbox": {
-            "x1": 19,
-            "y1": 141,
-            "x2": 460,
-            "y2": 479
+            "x1": 462,
+            "y1": 255,
+            "x2": 493,
+            "y2": 358
           },
           "centro": {
-            "cx": 239,
-            "cy": 310
+            "cx": 477,
+            "cy": 306
           }
         }
       ]
     },
     {
       "frame": 70,
-      "timestamp": "2026-05-12 10:15:57.059",
+      "timestamp": "2026-06-05 21:27:04.582",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.859,
+          "confianza": 0.794,
           "bbox": {
-            "x1": 8,
-            "y1": 144,
-            "x2": 455,
-            "y2": 479
+            "x1": 514,
+            "y1": 242,
+            "x2": 550,
+            "y2": 362
           },
           "centro": {
-            "cx": 231,
-            "cy": 311
+            "cx": 532,
+            "cy": 302
           }
         }
       ]
     },
     {
       "frame": 75,
-      "timestamp": "2026-05-12 10:15:57.455",
+      "timestamp": "2026-06-05 21:27:05.081",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 5,
           "label": "person",
-          "confianza": 0.845,
+          "confianza": 0.769,
           "bbox": {
-            "x1": 9,
-            "y1": 143,
-            "x2": 464,
-            "y2": 479
+            "x1": 590,
+            "y1": 227,
+            "x2": 631,
+            "y2": 375
           },
           "centro": {
-            "cx": 236,
-            "cy": 311
+            "cx": 610,
+            "cy": 301
           }
         }
       ]
     },
     {
       "frame": 80,
-      "timestamp": "2026-05-12 10:15:57.851",
+      "timestamp": "2026-06-05 21:27:05.556",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.863,
-          "bbox": {
-            "x1": 25,
-            "y1": 155,
-            "x2": 467,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 246,
-            "cy": 317
-          }
-        }
-      ]
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 85,
-      "timestamp": "2026-05-12 10:15:58.243",
+      "timestamp": "2026-06-05 21:27:06.071",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 0,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.892,
-          "bbox": {
-            "x1": 49,
-            "y1": 158,
-            "x2": 489,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 269,
-            "cy": 318
-          }
-        }
-      ]
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 90,
-      "timestamp": "2026-05-12 10:15:58.620",
+      "timestamp": "2026-06-05 21:27:06.624",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.915,
-          "bbox": {
-            "x1": 105,
-            "y1": 154,
-            "x2": 549,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 327,
-            "cy": 316
-          }
-        }
-      ]
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 95,
-      "timestamp": "2026-05-12 10:15:59.013",
+      "timestamp": "2026-06-05 21:27:07.134",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.943,
-          "bbox": {
-            "x1": 215,
-            "y1": 161,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 427,
-            "cy": 320
-          }
-        }
-      ]
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 100,
-      "timestamp": "2026-05-12 10:15:59.389",
+      "timestamp": "2026-06-05 21:27:07.620",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.929,
-          "bbox": {
-            "x1": 275,
-            "y1": 163,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 457,
-            "cy": 321
-          }
-        }
-      ]
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 105,
-      "timestamp": "2026-05-12 10:15:59.766",
+      "timestamp": "2026-06-05 21:27:08.109",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.94,
-          "bbox": {
-            "x1": 312,
-            "y1": 173,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 476,
-            "cy": 326
-          }
-        }
-      ]
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 110,
-      "timestamp": "2026-05-12 10:16:00.161",
+      "timestamp": "2026-06-05 21:27:08.630",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.93,
-          "bbox": {
-            "x1": 318,
-            "y1": 171,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 479,
-            "cy": 325
-          }
-        }
-      ]
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 115,
-      "timestamp": "2026-05-12 10:16:00.542",
+      "timestamp": "2026-06-05 21:27:09.137",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 2,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.913,
+          "confianza": 0.479,
           "bbox": {
-            "x1": 281,
-            "y1": 162,
-            "x2": 630,
-            "y2": 479
+            "x1": 280,
+            "y1": 283,
+            "x2": 295,
+            "y2": 318
           },
           "centro": {
-            "cx": 455,
-            "cy": 320
+            "cx": 287,
+            "cy": 300
+          }
+        },
+        {
+          "id": 17,
+          "label": "person",
+          "confianza": 0.492,
+          "bbox": {
+            "x1": 46,
+            "y1": 272,
+            "x2": 59,
+            "y2": 317
+          },
+          "centro": {
+            "cx": 52,
+            "cy": 294
           }
         }
       ]
     },
     {
       "frame": 120,
-      "timestamp": "2026-05-12 10:16:00.916",
+      "timestamp": "2026-06-05 21:27:09.640",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
+      "entradas": 0,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.921,
+          "confianza": 0.521,
           "bbox": {
-            "x1": 215,
-            "y1": 144,
-            "x2": 609,
-            "y2": 479
+            "x1": 286,
+            "y1": 281,
+            "x2": 303,
+            "y2": 324
           },
           "centro": {
-            "cx": 412,
-            "cy": 311
+            "cx": 294,
+            "cy": 302
           }
         }
       ]
     },
     {
       "frame": 125,
-      "timestamp": "2026-05-12 10:16:01.307",
+      "timestamp": "2026-06-05 21:27:10.142",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 1,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.926,
-          "bbox": {
-            "x1": 104,
-            "y1": 114,
-            "x2": 559,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 331,
-            "cy": 296
-          }
-        }
-      ]
+      "entradas": 0,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 130,
-      "timestamp": "2026-05-12 10:16:01.716",
+      "timestamp": "2026-06-05 21:27:10.671",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 1,
-      "salidas": 2,
+      "entradas": 0,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.908,
+          "confianza": 0.583,
           "bbox": {
-            "x1": 0,
-            "y1": 93,
-            "x2": 494,
-            "y2": 479
+            "x1": 306,
+            "y1": 282,
+            "x2": 324,
+            "y2": 328
           },
           "centro": {
-            "cx": 247,
-            "cy": 286
+            "cx": 315,
+            "cy": 305
           }
         }
       ]
     },
     {
       "frame": 135,
-      "timestamp": "2026-05-12 10:16:02.111",
+      "timestamp": "2026-06-05 21:27:11.254",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 1,
-      "salidas": 2,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.882,
-          "bbox": {
-            "x1": 0,
-            "y1": 92,
-            "x2": 462,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 231,
-            "cy": 285
-          }
-        }
-      ]
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 140,
-      "timestamp": "2026-05-12 10:16:02.480",
+      "timestamp": "2026-06-05 21:27:11.822",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 1,
-      "salidas": 2,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.873,
+          "confianza": 0.713,
           "bbox": {
-            "x1": 0,
-            "y1": 101,
-            "x2": 457,
-            "y2": 479
+            "x1": 326,
+            "y1": 277,
+            "x2": 346,
+            "y2": 335
           },
           "centro": {
-            "cx": 228,
-            "cy": 290
+            "cx": 336,
+            "cy": 306
           }
         }
       ]
     },
     {
       "frame": 145,
-      "timestamp": "2026-05-12 10:16:02.876",
+      "timestamp": "2026-06-05 21:27:12.386",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 1,
-      "salidas": 2,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.901,
+          "confianza": 0.827,
           "bbox": {
-            "x1": 0,
-            "y1": 99,
-            "x2": 465,
-            "y2": 479
+            "x1": 337,
+            "y1": 283,
+            "x2": 357,
+            "y2": 346
           },
           "centro": {
-            "cx": 232,
-            "cy": 289
+            "cx": 347,
+            "cy": 314
           }
         }
       ]
     },
     {
       "frame": 150,
-      "timestamp": "2026-05-12 10:16:03.258",
+      "timestamp": "2026-06-05 21:27:13.019",
       "line_mode": "vertical",
       "line_pos": 320,
       "entradas": 1,
-      "salidas": 2,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.917,
+          "confianza": 0.796,
           "bbox": {
-            "x1": 27,
-            "y1": 111,
-            "x2": 495,
-            "y2": 479
+            "x1": 352,
+            "y1": 289,
+            "x2": 374,
+            "y2": 360
           },
           "centro": {
-            "cx": 261,
-            "cy": 295
-          }
-        }
-      ]
-    },
-    {
-      "frame": 155,
-      "timestamp": "2026-05-12 10:16:03.618",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 1,
-      "salidas": 2,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.894,
-          "bbox": {
-            "x1": 63,
-            "y1": 117,
-            "x2": 535,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 299,
-            "cy": 298
-          }
-        }
-      ]
-    },
-    {
-      "frame": 160,
-      "timestamp": "2026-05-12 10:16:04.016",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 2,
-      "salidas": 2,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.89,
-          "bbox": {
-            "x1": 102,
-            "y1": 155,
-            "x2": 525,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 313,
-            "cy": 317
-          }
-        }
-      ]
-    },
-    {
-      "frame": 165,
-      "timestamp": "2026-05-12 10:16:04.415",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 3,
-      "salidas": 2,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.878,
-          "bbox": {
-            "x1": 139,
-            "y1": 170,
-            "x2": 539,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 339,
+            "cx": 363,
             "cy": 324
           }
         }
       ]
     },
     {
-      "frame": 170,
-      "timestamp": "2026-05-12 10:16:04.823",
+      "frame": 155,
+      "timestamp": "2026-06-05 21:27:13.658",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 3,
-      "salidas": 2,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.883,
+          "confianza": 0.683,
           "bbox": {
-            "x1": 171,
-            "y1": 161,
-            "x2": 580,
-            "y2": 479
+            "x1": 366,
+            "y1": 286,
+            "x2": 392,
+            "y2": 364
           },
           "centro": {
-            "cx": 375,
-            "cy": 320
+            "cx": 379,
+            "cy": 325
           }
         }
       ]
     },
     {
-      "frame": 175,
-      "timestamp": "2026-05-12 10:16:05.231",
+      "frame": 160,
+      "timestamp": "2026-06-05 21:27:14.220",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 3,
-      "salidas": 2,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.872,
+          "confianza": 0.717,
           "bbox": {
-            "x1": 139,
-            "y1": 151,
-            "x2": 563,
-            "y2": 479
+            "x1": 388,
+            "y1": 279,
+            "x2": 418,
+            "y2": 373
           },
           "centro": {
-            "cx": 351,
-            "cy": 315
+            "cx": 403,
+            "cy": 326
           }
         }
       ]
     },
     {
-      "frame": 180,
-      "timestamp": "2026-05-12 10:16:05.638",
+      "frame": 165,
+      "timestamp": "2026-06-05 21:27:14.696",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 3,
-      "salidas": 3,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.857,
+          "confianza": 0.742,
           "bbox": {
-            "x1": 84,
-            "y1": 149,
-            "x2": 510,
-            "y2": 479
+            "x1": 417,
+            "y1": 273,
+            "x2": 450,
+            "y2": 383
           },
           "centro": {
-            "cx": 297,
-            "cy": 314
-          }
-        }
-      ]
-    },
-    {
-      "frame": 185,
-      "timestamp": "2026-05-12 10:16:06.033",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 3,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.85,
-          "bbox": {
-            "x1": 66,
-            "y1": 148,
-            "x2": 491,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 278,
-            "cy": 313
-          }
-        }
-      ]
-    },
-    {
-      "frame": 190,
-      "timestamp": "2026-05-12 10:16:06.423",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 3,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.877,
-          "bbox": {
-            "x1": 87,
-            "y1": 150,
-            "x2": 511,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 299,
-            "cy": 314
-          }
-        }
-      ]
-    },
-    {
-      "frame": 195,
-      "timestamp": "2026-05-12 10:16:06.882",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.87,
-          "bbox": {
-            "x1": 132,
-            "y1": 155,
-            "x2": 556,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 344,
-            "cy": 317
-          }
-        }
-      ]
-    },
-    {
-      "frame": 200,
-      "timestamp": "2026-05-12 10:16:07.588",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.891,
-          "bbox": {
-            "x1": 166,
-            "y1": 146,
-            "x2": 599,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 382,
-            "cy": 312
-          }
-        }
-      ]
-    },
-    {
-      "frame": 205,
-      "timestamp": "2026-05-12 10:16:08.012",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.893,
-          "bbox": {
-            "x1": 166,
-            "y1": 146,
-            "x2": 595,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 380,
-            "cy": 312
-          }
-        }
-      ]
-    },
-    {
-      "frame": 210,
-      "timestamp": "2026-05-12 10:16:08.418",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.885,
-          "bbox": {
-            "x1": 168,
-            "y1": 145,
-            "x2": 596,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 382,
-            "cy": 312
-          }
-        }
-      ]
-    },
-    {
-      "frame": 215,
-      "timestamp": "2026-05-12 10:16:08.819",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.881,
-          "bbox": {
-            "x1": 167,
-            "y1": 142,
-            "x2": 599,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 383,
-            "cy": 310
-          }
-        }
-      ]
-    },
-    {
-      "frame": 220,
-      "timestamp": "2026-05-12 10:16:09.232",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.895,
-          "bbox": {
-            "x1": 162,
-            "y1": 121,
-            "x2": 626,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 394,
-            "cy": 300
-          }
-        }
-      ]
-    },
-    {
-      "frame": 225,
-      "timestamp": "2026-05-12 10:16:09.631",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.919,
-          "bbox": {
-            "x1": 131,
-            "y1": 101,
-            "x2": 625,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 378,
-            "cy": 290
-          }
-        }
-      ]
-    },
-    {
-      "frame": 230,
-      "timestamp": "2026-05-12 10:16:10.038",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 3,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.868,
-          "bbox": {
-            "x1": 148,
-            "y1": 177,
-            "x2": 544,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 346,
+            "cx": 433,
             "cy": 328
           }
         }
       ]
     },
     {
-      "frame": 235,
-      "timestamp": "2026-05-12 10:16:10.450",
+      "frame": 170,
+      "timestamp": "2026-06-05 21:27:15.264",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 4,
-      "salidas": 4,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.893,
+          "confianza": 0.818,
           "bbox": {
-            "x1": 145,
-            "y1": 238,
-            "x2": 457,
-            "y2": 479
+            "x1": 451,
+            "y1": 276,
+            "x2": 491,
+            "y2": 398
           },
           "centro": {
-            "cx": 301,
-            "cy": 358
+            "cx": 471,
+            "cy": 337
           }
         }
       ]
     },
     {
-      "frame": 240,
-      "timestamp": "2026-05-12 10:16:10.857",
+      "frame": 175,
+      "timestamp": "2026-06-05 21:27:15.800",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 4,
-      "salidas": 4,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 13,
           "label": "person",
-          "confianza": 0.901,
+          "confianza": 0.825,
           "bbox": {
-            "x1": 118,
+            "x1": 500,
+            "y1": 276,
+            "x2": 547,
+            "y2": 422
+          },
+          "centro": {
+            "cx": 523,
+            "cy": 349
+          }
+        }
+      ]
+    },
+    {
+      "frame": 180,
+      "timestamp": "2026-06-05 21:27:16.276",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 13,
+          "label": "person",
+          "confianza": 0.791,
+          "bbox": {
+            "x1": 572,
+            "y1": 265,
+            "x2": 631,
+            "y2": 445
+          },
+          "centro": {
+            "cx": 601,
+            "cy": 355
+          }
+        }
+      ]
+    },
+    {
+      "frame": 185,
+      "timestamp": "2026-06-05 21:27:16.793",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 190,
+      "timestamp": "2026-06-05 21:27:17.344",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 195,
+      "timestamp": "2026-06-05 21:27:17.855",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 200,
+      "timestamp": "2026-06-05 21:27:18.376",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 205,
+      "timestamp": "2026-06-05 21:27:18.855",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 210,
+      "timestamp": "2026-06-05 21:27:19.376",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.666,
+          "bbox": {
+            "x1": 414,
             "y1": 254,
-            "x2": 402,
-            "y2": 479
+            "x2": 425,
+            "y2": 287
           },
           "centro": {
-            "cx": 260,
-            "cy": 366
+            "cx": 419,
+            "cy": 270
           }
         }
       ]
     },
     {
-      "frame": 245,
-      "timestamp": "2026-05-12 10:16:11.267",
+      "frame": 215,
+      "timestamp": "2026-06-05 21:27:19.931",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 4,
-      "salidas": 4,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.9,
-          "bbox": {
-            "x1": 113,
-            "y1": 248,
-            "x2": 401,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 257,
-            "cy": 363
-          }
-        }
-      ]
-    },
-    {
-      "frame": 250,
-      "timestamp": "2026-05-12 10:16:11.696",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 4,
-      "salidas": 4,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.836,
-          "bbox": {
-            "x1": 141,
-            "y1": 206,
-            "x2": 481,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 311,
-            "cy": 342
-          }
-        }
-      ]
-    },
-    {
-      "frame": 255,
-      "timestamp": "2026-05-12 10:16:12.102",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 6,
-      "salidas": 5,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 2,
       "objetos": [
         {
-          "id": 1,
+          "id": 48,
           "label": "person",
-          "confianza": 0.75,
+          "confianza": 0.532,
           "bbox": {
-            "x1": 61,
-            "y1": 45,
-            "x2": 586,
-            "y2": 479
+            "x1": 411,
+            "y1": 253,
+            "x2": 423,
+            "y2": 289
           },
           "centro": {
-            "cx": 323,
-            "cy": 262
+            "cx": 417,
+            "cy": 271
           }
         },
         {
-          "id": 4,
+          "id": 51,
           "label": "person",
-          "confianza": 0.781,
+          "confianza": 0.577,
           "bbox": {
-            "x1": 0,
-            "y1": 3,
-            "x2": 262,
-            "y2": 477
+            "x1": 559,
+            "y1": 258,
+            "x2": 594,
+            "y2": 369
           },
           "centro": {
-            "cx": 131,
-            "cy": 240
-          }
-        }
-      ]
-    },
-    {
-      "frame": 260,
-      "timestamp": "2026-05-12 10:16:12.496",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 6,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.656,
-          "bbox": {
-            "x1": 32,
-            "y1": 37,
-            "x2": 548,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 290,
-            "cy": 258
-          }
-        }
-      ]
-    },
-    {
-      "frame": 265,
-      "timestamp": "2026-05-12 10:16:12.893",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 6,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.865,
-          "bbox": {
-            "x1": 42,
-            "y1": 75,
-            "x2": 543,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 292,
-            "cy": 277
-          }
-        }
-      ]
-    },
-    {
-      "frame": 270,
-      "timestamp": "2026-05-12 10:16:13.301",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 6,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.904,
-          "bbox": {
-            "x1": 73,
-            "y1": 126,
-            "x2": 531,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 302,
-            "cy": 302
-          }
-        }
-      ]
-    },
-    {
-      "frame": 275,
-      "timestamp": "2026-05-12 10:16:13.703",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.926,
-          "bbox": {
-            "x1": 93,
-            "y1": 139,
-            "x2": 551,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 322,
-            "cy": 309
-          }
-        }
-      ]
-    },
-    {
-      "frame": 280,
-      "timestamp": "2026-05-12 10:16:14.118",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.938,
-          "bbox": {
-            "x1": 157,
-            "y1": 147,
-            "x2": 583,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 370,
+            "cx": 576,
             "cy": 313
           }
         }
       ]
     },
     {
-      "frame": 285,
-      "timestamp": "2026-05-12 10:16:14.539",
+      "frame": 220,
+      "timestamp": "2026-06-05 21:27:20.482",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
-      "total_objetos": 1,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 2,
       "objetos": [
         {
-          "id": 1,
+          "id": 48,
           "label": "person",
-          "confianza": 0.935,
+          "confianza": 0.725,
           "bbox": {
-            "x1": 182,
-            "y1": 150,
-            "x2": 580,
-            "y2": 479
+            "x1": 409,
+            "y1": 264,
+            "x2": 422,
+            "y2": 305
           },
           "centro": {
-            "cx": 381,
-            "cy": 314
+            "cx": 415,
+            "cy": 284
+          }
+        },
+        {
+          "id": 51,
+          "label": "person",
+          "confianza": 0.606,
+          "bbox": {
+            "x1": 601,
+            "y1": 247,
+            "x2": 640,
+            "y2": 394
+          },
+          "centro": {
+            "cx": 620,
+            "cy": 320
           }
         }
       ]
     },
     {
-      "frame": 290,
-      "timestamp": "2026-05-12 10:16:14.948",
+      "frame": 225,
+      "timestamp": "2026-06-05 21:27:21.002",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 48,
           "label": "person",
-          "confianza": 0.939,
+          "confianza": 0.807,
           "bbox": {
-            "x1": 186,
-            "y1": 147,
-            "x2": 571,
-            "y2": 479
+            "x1": 409,
+            "y1": 273,
+            "x2": 422,
+            "y2": 315
           },
           "centro": {
-            "cx": 378,
-            "cy": 313
+            "cx": 415,
+            "cy": 294
           }
         }
       ]
     },
     {
-      "frame": 295,
-      "timestamp": "2026-05-12 10:16:15.357",
+      "frame": 230,
+      "timestamp": "2026-06-05 21:27:21.491",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 48,
           "label": "person",
-          "confianza": 0.934,
+          "confianza": 0.86,
           "bbox": {
-            "x1": 190,
-            "y1": 146,
-            "x2": 567,
-            "y2": 479
+            "x1": 410,
+            "y1": 275,
+            "x2": 425,
+            "y2": 322
           },
           "centro": {
-            "cx": 378,
-            "cy": 312
-          }
-        }
-      ]
-    },
-    {
-      "frame": 300,
-      "timestamp": "2026-05-12 10:16:15.774",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.936,
-          "bbox": {
-            "x1": 192,
-            "y1": 146,
-            "x2": 563,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 377,
-            "cy": 312
-          }
-        }
-      ]
-    },
-    {
-      "frame": 305,
-      "timestamp": "2026-05-12 10:16:16.200",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.934,
-          "bbox": {
-            "x1": 192,
-            "y1": 143,
-            "x2": 563,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 377,
-            "cy": 311
-          }
-        }
-      ]
-    },
-    {
-      "frame": 310,
-      "timestamp": "2026-05-12 10:16:16.604",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 6,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.923,
-          "bbox": {
-            "x1": 135,
-            "y1": 140,
-            "x2": 525,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 330,
-            "cy": 309
-          }
-        }
-      ]
-    },
-    {
-      "frame": 315,
-      "timestamp": "2026-05-12 10:16:17.027",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 7,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.918,
-          "bbox": {
-            "x1": 113,
-            "y1": 137,
-            "x2": 529,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 321,
-            "cy": 308
-          }
-        }
-      ]
-    },
-    {
-      "frame": 320,
-      "timestamp": "2026-05-12 10:16:17.444",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.894,
-          "bbox": {
-            "x1": 69,
-            "y1": 124,
-            "x2": 515,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 292,
-            "cy": 301
-          }
-        }
-      ]
-    },
-    {
-      "frame": 325,
-      "timestamp": "2026-05-12 10:16:17.853",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.877,
-          "bbox": {
-            "x1": 61,
-            "y1": 122,
-            "x2": 513,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 287,
-            "cy": 300
-          }
-        }
-      ]
-    },
-    {
-      "frame": 330,
-      "timestamp": "2026-05-12 10:16:18.263",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 7,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.885,
-          "bbox": {
-            "x1": 76,
-            "y1": 123,
-            "x2": 536,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 306,
-            "cy": 301
-          }
-        }
-      ]
-    },
-    {
-      "frame": 335,
-      "timestamp": "2026-05-12 10:16:18.681",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.909,
-          "bbox": {
-            "x1": 107,
-            "y1": 126,
-            "x2": 570,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 338,
-            "cy": 302
-          }
-        }
-      ]
-    },
-    {
-      "frame": 340,
-      "timestamp": "2026-05-12 10:16:19.096",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.91,
-          "bbox": {
-            "x1": 115,
-            "y1": 124,
-            "x2": 585,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 350,
-            "cy": 301
-          }
-        }
-      ]
-    },
-    {
-      "frame": 345,
-      "timestamp": "2026-05-12 10:16:19.509",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.899,
-          "bbox": {
-            "x1": 107,
-            "y1": 117,
-            "x2": 574,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 340,
+            "cx": 417,
             "cy": 298
           }
         }
       ]
     },
     {
-      "frame": 350,
-      "timestamp": "2026-05-12 10:16:19.925",
+      "frame": 235,
+      "timestamp": "2026-06-05 21:27:22.003",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
+      "entradas": 1,
+      "salidas": 0,
       "total_objetos": 1,
       "objetos": [
         {
-          "id": 1,
+          "id": 48,
           "label": "person",
-          "confianza": 0.898,
+          "confianza": 0.776,
           "bbox": {
-            "x1": 105,
-            "y1": 114,
-            "x2": 564,
-            "y2": 479
+            "x1": 414,
+            "y1": 279,
+            "x2": 430,
+            "y2": 330
+          },
+          "centro": {
+            "cx": 422,
+            "cy": 304
+          }
+        }
+      ]
+    },
+    {
+      "frame": 240,
+      "timestamp": "2026-06-05 21:27:22.520",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.809,
+          "bbox": {
+            "x1": 420,
+            "y1": 283,
+            "x2": 438,
+            "y2": 340
+          },
+          "centro": {
+            "cx": 429,
+            "cy": 311
+          }
+        }
+      ]
+    },
+    {
+      "frame": 245,
+      "timestamp": "2026-06-05 21:27:23.048",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.741,
+          "bbox": {
+            "x1": 426,
+            "y1": 279,
+            "x2": 446,
+            "y2": 341
+          },
+          "centro": {
+            "cx": 436,
+            "cy": 310
+          }
+        }
+      ]
+    },
+    {
+      "frame": 250,
+      "timestamp": "2026-06-05 21:27:23.574",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.787,
+          "bbox": {
+            "x1": 442,
+            "y1": 273,
+            "x2": 463,
+            "y2": 343
+          },
+          "centro": {
+            "cx": 452,
+            "cy": 308
+          }
+        },
+        {
+          "id": 67,
+          "label": "person",
+          "confianza": 0.651,
+          "bbox": {
+            "x1": 344,
+            "y1": 276,
+            "x2": 356,
+            "y2": 315
+          },
+          "centro": {
+            "cx": 350,
+            "cy": 295
+          }
+        }
+      ]
+    },
+    {
+      "frame": 255,
+      "timestamp": "2026-06-05 21:27:24.091",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.777,
+          "bbox": {
+            "x1": 464,
+            "y1": 272,
+            "x2": 487,
+            "y2": 351
+          },
+          "centro": {
+            "cx": 475,
+            "cy": 311
+          }
+        },
+        {
+          "id": 67,
+          "label": "person",
+          "confianza": 0.572,
+          "bbox": {
+            "x1": 343,
+            "y1": 279,
+            "x2": 355,
+            "y2": 318
+          },
+          "centro": {
+            "cx": 349,
+            "cy": 298
+          }
+        }
+      ]
+    },
+    {
+      "frame": 260,
+      "timestamp": "2026-06-05 21:27:24.603",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.779,
+          "bbox": {
+            "x1": 495,
+            "y1": 266,
+            "x2": 521,
+            "y2": 360
+          },
+          "centro": {
+            "cx": 508,
+            "cy": 313
+          }
+        },
+        {
+          "id": 67,
+          "label": "person",
+          "confianza": 0.515,
+          "bbox": {
+            "x1": 343,
+            "y1": 277,
+            "x2": 357,
+            "y2": 323
+          },
+          "centro": {
+            "cx": 350,
+            "cy": 300
+          }
+        }
+      ]
+    },
+    {
+      "frame": 265,
+      "timestamp": "2026-06-05 21:27:25.100",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.828,
+          "bbox": {
+            "x1": 540,
+            "y1": 263,
+            "x2": 570,
+            "y2": 370
+          },
+          "centro": {
+            "cx": 555,
+            "cy": 316
+          }
+        }
+      ]
+    },
+    {
+      "frame": 270,
+      "timestamp": "2026-06-05 21:27:25.594",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 48,
+          "label": "person",
+          "confianza": 0.807,
+          "bbox": {
+            "x1": 597,
+            "y1": 260,
+            "x2": 634,
+            "y2": 384
+          },
+          "centro": {
+            "cx": 615,
+            "cy": 322
+          }
+        },
+        {
+          "id": 67,
+          "label": "person",
+          "confianza": 0.62,
+          "bbox": {
+            "x1": 352,
+            "y1": 277,
+            "x2": 369,
+            "y2": 338
+          },
+          "centro": {
+            "cx": 360,
+            "cy": 307
+          }
+        }
+      ]
+    },
+    {
+      "frame": 275,
+      "timestamp": "2026-06-05 21:27:26.089",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 67,
+          "label": "person",
+          "confianza": 0.553,
+          "bbox": {
+            "x1": 363,
+            "y1": 281,
+            "x2": 379,
+            "y2": 343
+          },
+          "centro": {
+            "cx": 371,
+            "cy": 312
+          }
+        }
+      ]
+    },
+    {
+      "frame": 280,
+      "timestamp": "2026-06-05 21:27:26.563",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 67,
+          "label": "person",
+          "confianza": 0.501,
+          "bbox": {
+            "x1": 375,
+            "y1": 277,
+            "x2": 393,
+            "y2": 347
+          },
+          "centro": {
+            "cx": 384,
+            "cy": 312
+          }
+        }
+      ]
+    },
+    {
+      "frame": 285,
+      "timestamp": "2026-06-05 21:27:27.105",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 290,
+      "timestamp": "2026-06-05 21:27:27.727",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 1,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 295,
+      "timestamp": "2026-06-05 21:27:28.337",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.747,
+          "bbox": {
+            "x1": 317,
+            "y1": 279,
+            "x2": 332,
+            "y2": 323
+          },
+          "centro": {
+            "cx": 324,
+            "cy": 301
+          }
+        },
+        {
+          "id": 77,
+          "label": "person",
+          "confianza": 0.792,
+          "bbox": {
+            "x1": 440,
+            "y1": 260,
+            "x2": 464,
+            "y2": 363
+          },
+          "centro": {
+            "cx": 452,
+            "cy": 311
+          }
+        }
+      ]
+    },
+    {
+      "frame": 300,
+      "timestamp": "2026-06-05 21:27:28.825",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.543,
+          "bbox": {
+            "x1": 327,
+            "y1": 282,
+            "x2": 342,
+            "y2": 329
           },
           "centro": {
             "cx": 334,
-            "cy": 296
+            "cy": 305
+          }
+        },
+        {
+          "id": 77,
+          "label": "person",
+          "confianza": 0.795,
+          "bbox": {
+            "x1": 477,
+            "y1": 259,
+            "x2": 503,
+            "y2": 377
+          },
+          "centro": {
+            "cx": 490,
+            "cy": 318
+          }
+        }
+      ]
+    },
+    {
+      "frame": 305,
+      "timestamp": "2026-06-05 21:27:29.345",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.638,
+          "bbox": {
+            "x1": 336,
+            "y1": 280,
+            "x2": 351,
+            "y2": 329
+          },
+          "centro": {
+            "cx": 343,
+            "cy": 304
+          }
+        },
+        {
+          "id": 77,
+          "label": "person",
+          "confianza": 0.834,
+          "bbox": {
+            "x1": 523,
+            "y1": 251,
+            "x2": 552,
+            "y2": 386
+          },
+          "centro": {
+            "cx": 537,
+            "cy": 318
+          }
+        }
+      ]
+    },
+    {
+      "frame": 310,
+      "timestamp": "2026-06-05 21:27:29.872",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 2,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.672,
+          "bbox": {
+            "x1": 346,
+            "y1": 278,
+            "x2": 362,
+            "y2": 329
+          },
+          "centro": {
+            "cx": 354,
+            "cy": 303
+          }
+        },
+        {
+          "id": 77,
+          "label": "person",
+          "confianza": 0.836,
+          "bbox": {
+            "x1": 582,
+            "y1": 240,
+            "x2": 616,
+            "y2": 398
+          },
+          "centro": {
+            "cx": 599,
+            "cy": 319
+          }
+        }
+      ]
+    },
+    {
+      "frame": 315,
+      "timestamp": "2026-06-05 21:27:30.418",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.568,
+          "bbox": {
+            "x1": 358,
+            "y1": 279,
+            "x2": 374,
+            "y2": 333
+          },
+          "centro": {
+            "cx": 366,
+            "cy": 306
+          }
+        }
+      ]
+    },
+    {
+      "frame": 320,
+      "timestamp": "2026-06-05 21:27:31.000",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.504,
+          "bbox": {
+            "x1": 371,
+            "y1": 279,
+            "x2": 389,
+            "y2": 337
+          },
+          "centro": {
+            "cx": 380,
+            "cy": 308
+          }
+        }
+      ]
+    },
+    {
+      "frame": 325,
+      "timestamp": "2026-06-05 21:27:31.559",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 3,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.755,
+          "bbox": {
+            "x1": 386,
+            "y1": 274,
+            "x2": 407,
+            "y2": 340
+          },
+          "centro": {
+            "cx": 396,
+            "cy": 307
+          }
+        },
+        {
+          "id": 81,
+          "label": "person",
+          "confianza": 0.439,
+          "bbox": {
+            "x1": 36,
+            "y1": 289,
+            "x2": 46,
+            "y2": 320
+          },
+          "centro": {
+            "cx": 41,
+            "cy": 304
+          }
+        },
+        {
+          "id": 83,
+          "label": "person",
+          "confianza": 0.549,
+          "bbox": {
+            "x1": 4,
+            "y1": 281,
+            "x2": 16,
+            "y2": 322
+          },
+          "centro": {
+            "cx": 10,
+            "cy": 301
+          }
+        }
+      ]
+    },
+    {
+      "frame": 330,
+      "timestamp": "2026-06-05 21:27:32.086",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.708,
+          "bbox": {
+            "x1": 405,
+            "y1": 269,
+            "x2": 427,
+            "y2": 340
+          },
+          "centro": {
+            "cx": 416,
+            "cy": 304
+          }
+        }
+      ]
+    },
+    {
+      "frame": 335,
+      "timestamp": "2026-06-05 21:27:32.600",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 76,
+          "label": "person",
+          "confianza": 0.642,
+          "bbox": {
+            "x1": 422,
+            "y1": 266,
+            "x2": 445,
+            "y2": 344
+          },
+          "centro": {
+            "cx": 433,
+            "cy": 305
+          }
+        }
+      ]
+    },
+    {
+      "frame": 340,
+      "timestamp": "2026-06-05 21:27:33.146",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 345,
+      "timestamp": "2026-06-05 21:27:33.634",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
+    },
+    {
+      "frame": 350,
+      "timestamp": "2026-06-05 21:27:34.170",
+      "line_mode": "vertical",
+      "line_pos": 320,
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 1,
+      "objetos": [
+        {
+          "id": 92,
+          "label": "person",
+          "confianza": 0.483,
+          "bbox": {
+            "x1": 27,
+            "y1": 288,
+            "x2": 48,
+            "y2": 340
+          },
+          "centro": {
+            "cx": 37,
+            "cy": 314
           }
         }
       ]
     },
     {
       "frame": 355,
-      "timestamp": "2026-05-12 10:16:20.339",
+      "timestamp": "2026-06-05 21:27:34.683",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.906,
-          "bbox": {
-            "x1": 124,
-            "y1": 124,
-            "x2": 571,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 347,
-            "cy": 301
-          }
-        }
-      ]
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 360,
-      "timestamp": "2026-05-12 10:16:20.756",
+      "timestamp": "2026-06-05 21:27:35.211",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.917,
-          "bbox": {
-            "x1": 126,
-            "y1": 123,
-            "x2": 579,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 352,
-            "cy": 301
-          }
-        }
-      ]
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 365,
-      "timestamp": "2026-05-12 10:16:21.161",
+      "timestamp": "2026-06-05 21:27:35.750",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.917,
-          "bbox": {
-            "x1": 111,
-            "y1": 90,
-            "x2": 619,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 365,
-            "cy": 284
-          }
-        }
-      ]
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     },
     {
       "frame": 370,
-      "timestamp": "2026-05-12 10:16:21.580",
+      "timestamp": "2026-06-05 21:27:36.273",
       "line_mode": "vertical",
       "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.896,
-          "bbox": {
-            "x1": 104,
-            "y1": 69,
-            "x2": 640,
-            "y2": 479
-          },
-          "centro": {
-            "cx": 372,
-            "cy": 274
-          }
-        }
-      ]
-    },
-    {
-      "frame": 375,
-      "timestamp": "2026-05-12 10:16:22.090",
-      "line_mode": "vertical",
-      "line_pos": 320,
-      "entradas": 8,
-      "salidas": 8,
-      "total_objetos": 1,
-      "objetos": [
-        {
-          "id": 1,
-          "label": "person",
-          "confianza": 0.927,
-          "bbox": {
-            "x1": 65,
-            "y1": 13,
-            "x2": 640,
-            "y2": 478
-          },
-          "centro": {
-            "cx": 352,
-            "cy": 245
-          }
-        }
-      ]
+      "entradas": 2,
+      "salidas": 0,
+      "total_objetos": 0,
+      "objetos": []
     }
   ]
 }
