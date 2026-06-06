@@ -69,4 +69,4 @@ deactivate
 
 **Archivos relevantes**
 - Dependencias: [requirements.txt](requirements.txt#L1)
-- Demo principal: [yolo_demo_v01.py](1_yolo_demo_v01.py#L1)
+- Demo principal: [yolo_demo_v01.py](yolo_demo_v01.py#L1)
